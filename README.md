@@ -69,7 +69,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bipin115&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin115&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin115&layout=compact&theme=vision-friendly-dark)](https://github.com/bipin115/github-readme-stats)
 
 ---
 
