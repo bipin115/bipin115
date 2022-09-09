@@ -45,7 +45,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I love to cook and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-singh115/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bipin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-singh115/)
 
 ---
 
